@@ -1,0 +1,23 @@
+{
+    "name": "Student",
+    "subjects": [
+        {
+            "name": "Python",
+            "mark": 85,
+            "assignment": "Lists and Tuples",
+            "due_days": 2
+        },
+        {
+            "name": "SQL",
+            "mark": 72,
+            "assignment": "SQL Queries",
+            "due_days": 0
+        },
+        {
+            "name": "DSA",
+            "mark": 65,
+            "assignment": "Sorting Algorithms",
+            "due_days": 3
+        }
+    ]
+}
